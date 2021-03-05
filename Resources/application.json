@@ -1,0 +1,14 @@
+{
+    "ApplicationCredentials":{
+      
+        "Uaturl":"https://www.iproperty.com.my/home-loan-eligibility/calculator/?disabled=all",
+        "yahooMailUrl": "https://login.yahoo.com/",
+
+        "YahooUser":"TestAccount1439@yahoo.com",
+        "YahooPass" : "P@ssword!@"
+       
+
+        
+
+    }
+}
